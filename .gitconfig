@@ -1,0 +1,10 @@
+[user]
+	email = yh.oh@piolink.com
+    name = 오요한
+[core]
+	editor = vim
+[credential]
+    helper = store
+[alias]
+    lol = log --graph --decorate --pretty=oneline --abbrev-commit
+    lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
